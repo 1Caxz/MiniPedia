@@ -1,14 +1,20 @@
 # MiniPedia
 MiniPedia is simple e-commerce app that grab data from Tokopedia.
 
+## Development
+- [x] XCode: 9.2
+- [x] Device Testing: IPhone 6
+
 ## Features
 - [x] Use my cocoapods library ([iProgressHUD](https://github.com/icaksama/iProgressHUD))
 - [x] MVP architectural pattern
 - [x] Full OOP (Object Oriented Programming)
-- [x] Disk chaching image system to reduce server request
+- [x] Chaching image system to reduce server request
+- [x] JSON parsing with Codable technique (Supported `Any` data type)
 - [x] Access all features in one page for UX
 - [x] Infinite scrolls
-- [x] Responsive design
+- [x] No warnings code
+- [x] Simple documentations
 
 ## Preview
 I reduce the quality of preview to decrease the file size. It may looks a bit bad in the preview.
