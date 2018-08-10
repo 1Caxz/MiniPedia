@@ -1,9 +1,8 @@
 # MiniPedia
 MiniPedia is simple e-commerce app that grab data from Tokopedia.
-This app use MVP architecture and has many features.
 
 ## Features
-- [x] Use my cocoapods library (iProgressHUD)
+- [x] Use my cocoapods library ([iProgressHUD](https://github.com/icaksama/iProgressHUD))
 - [x] MVP architectural pattern
 - [x] Full OOP (Object Oriented Programming)
 - [x] Disk chaching image system to reduce server request
@@ -12,7 +11,7 @@ This app use MVP architecture and has many features.
 - [x] Responsive design
 
 ## Preview
-I reduce quality of preview to decrease the fle size. It may looks a bit bad in preview.
+I reduce the quality of preview to decrease the file size. It may looks a bit bad in the preview.
 Please try the app for the best quality.
 <p align="center">
 <img width="350" src="https://github.com/icaksama/MiniPedia/blob/master/demo.gif?raw=true">
