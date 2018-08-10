@@ -34,21 +34,6 @@ internal extension UIView {
     }
 }
 
-internal extension UIImageView {
-    func load(url: URL, completion: @escaping() -> ()) {
-        DispatchQueue.global().async { [weak self] in
-            if let data = try? Data(contentsOf: url) {
-                if let image = UIImage(data: data) {
-                    DispatchQueue.main.async {
-                        self?.image = image
-                        completion()
-                    }
-                }
-            }
-        }
-    }
-}
-
 internal extension UIColor {
     convenience init(red: Int, green: Int, blue: Int) {
         assert(red >= 0 && red <= 255, "Invalid red component")

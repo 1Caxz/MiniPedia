@@ -72,6 +72,11 @@ internal class HomeController: UIViewController, HomeViewDelegete, UIScrollViewD
         self.view.addSubview(filterView)
     }
     
+    override func viewWillTransition(to size: CGSize, with coordinator: UIViewControllerTransitionCoordinator) {
+        super.viewWillTransition(to: size, with: coordinator)
+        
+    }
+    
     /** Filter button click action. */
     @IBAction func didClickedFilterBar(_ sender: Any) {
         UIView.animate(withDuration: 0.5, animations: {

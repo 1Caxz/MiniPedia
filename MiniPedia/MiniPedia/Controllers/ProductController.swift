@@ -32,11 +32,11 @@ internal class ProductController: UIViewController, ProductViewDelegete {
         iprogress.isShowBox = false
         iprogress.isShowModal = true
         iprogress.indicatorColor = .white
-        
     }
     
     func setProduct(image: String) {
-        productImage.load(url: URL(string: image)!) {
+        ImageLoader.image(for: URL(string: image)!) { image in
+            self.productImage.image = image
             self.productImage.dismissProgress()
         }
     }
@@ -46,7 +46,8 @@ internal class ProductController: UIViewController, ProductViewDelegete {
     }
     
     func setBadge(image: String) {
-        badgeImage.load(url: URL(string: image)!) {
+        ImageLoader.image(for: URL(string: image)!) { image in
+            self.badgeImage.image = image
             self.badgeImage.dismissProgress()
         }
     }

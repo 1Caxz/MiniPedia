@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F34E1ED211DF47B0015D803 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F34E1EC211DF47B0015D803 /* ImageLoader.swift */; };
 		6F4EBF50211B5E8C00A1454B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4EBF4F211B5E8C00A1454B /* AppDelegate.swift */; };
 		6F4EBF52211B5E8C00A1454B /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4EBF51211B5E8C00A1454B /* HomeController.swift */; };
 		6F4EBF55211B5E8C00A1454B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F4EBF53211B5E8C00A1454B /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		3153BA8DB6C6C2FB2B07FC33 /* Pods-MiniPedia.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MiniPedia.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MiniPedia/Pods-MiniPedia.debug.xcconfig"; sourceTree = "<group>"; };
 		67A7F9F88D753E832B11636E /* Pods_MiniPedia.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MiniPedia.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F34E1EC211DF47B0015D803 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 		6F4EBF4C211B5E8C00A1454B /* MiniPedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiniPedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F4EBF4F211B5E8C00A1454B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6F4EBF51211B5E8C00A1454B /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 				6F4EBF56211B5E8C00A1454B /* Assets.xcassets */,
 				6F4EBF58211B5E8C00A1454B /* LaunchScreen.storyboard */,
 				6F4EBF5B211B5E8C00A1454B /* Info.plist */,
+				6F34E1EC211DF47B0015D803 /* ImageLoader.swift */,
 			);
 			path = MiniPedia;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				6F7A9CB4211C8E1C0013B005 /* FilterController.swift in Sources */,
 				6F7A9CB6211C8E350013B005 /* ProductController.swift in Sources */,
 				6F4EBF52211B5E8C00A1454B /* HomeController.swift in Sources */,
+				6F34E1ED211DF47B0015D803 /* ImageLoader.swift in Sources */,
 				6F4EBF75211B6DD500A1454B /* DataProduct.swift in Sources */,
 				6F4EBF7F211B718900A1454B /* WholesalePrice.swift in Sources */,
 				6F4EBF50211B5E8C00A1454B /* AppDelegate.swift in Sources */,
