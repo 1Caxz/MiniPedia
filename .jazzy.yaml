@@ -1,0 +1,15 @@
+module: MiniPedia
+author: icaksama
+author_url: https://icaksama.com
+github_url: https://github.com/icaksama/MiniPedia
+xcodebuild_arguments:
+    - "-project"
+    - "./MiniPedia/MiniPedia.xcodeproj"
+    - "-scheme"
+    - "MiniPedia"
+
+copyright: '© 2018 [icaksama](https://icaksama.com) under [open source license](https://github.com/icaksama/MiniPedia/blob/master/LICENSE).'
+
+swift_version: 4.0.3
+
+theme: fullwidth

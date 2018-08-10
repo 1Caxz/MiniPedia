@@ -1,0 +1,348 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyCodable.swift",
+      "line": 17,
+      "symbol": "AnyCodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyCodable.swift",
+      "line": 19,
+      "symbol": "AnyCodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyDecodable.swift",
+      "line": null,
+      "symbol": "_AnyDecodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyDecodable.swift",
+      "line": 32,
+      "symbol": "AnyDecodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyDecodable.swift",
+      "line": 34,
+      "symbol": "AnyDecodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyDecodable.swift",
+      "line": 47,
+      "symbol": "_AnyDecodable.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": null,
+      "symbol": "_AnyEncodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": null,
+      "symbol": "_AnyEncodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 30,
+      "symbol": "AnyEncodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 32,
+      "symbol": "AnyEncodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 48,
+      "symbol": "_AnyEncodable.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 167,
+      "symbol": "_AnyEncodable.init(nilLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 171,
+      "symbol": "_AnyEncodable.init(booleanLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 175,
+      "symbol": "_AnyEncodable.init(integerLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 179,
+      "symbol": "_AnyEncodable.init(floatLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 183,
+      "symbol": "_AnyEncodable.init(extendedGraphemeClusterLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 187,
+      "symbol": "_AnyEncodable.init(stringLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 191,
+      "symbol": "_AnyEncodable.init(arrayLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/AnyCodable/AnyEncodable.swift",
+      "line": 195,
+      "symbol": "_AnyEncodable.init(dictionaryLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 11,
+      "symbol": "RangeSeekSlider",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 15,
+      "symbol": "RangeSeekSlider.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 21,
+      "symbol": "RangeSeekSlider.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 27,
+      "symbol": "RangeSeekSlider.init(frame:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 35,
+      "symbol": "RangeSeekSlider.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 278,
+      "symbol": "RangeSeekSlider.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 290,
+      "symbol": "RangeSeekSlider.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 297,
+      "symbol": "RangeSeekSlider.beginTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 325,
+      "symbol": "RangeSeekSlider.continueTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 356,
+      "symbol": "RangeSeekSlider.endTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 367,
+      "symbol": "RangeSeekSlider.accessibilityElementCount()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 371,
+      "symbol": "RangeSeekSlider.accessibilityElement(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSlider.swift",
+      "line": 375,
+      "symbol": "RangeSeekSlider.index(ofAccessibilityElement:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSliderDelegate.swift",
+      "line": null,
+      "symbol": "RangeSeekSliderDelegate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/RangeSeekSliderDelegate.swift",
+      "line": 11,
+      "symbol": "RangeSeekSliderDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 14,
+      "symbol": "TapticEngine.impact",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 15,
+      "symbol": "TapticEngine.selection",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 16,
+      "symbol": "TapticEngine.notification",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 28,
+      "symbol": "TapticEngine.Impact.ImpactStyle.heavy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 28,
+      "symbol": "TapticEngine.Impact.ImpactStyle.light",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 28,
+      "symbol": "TapticEngine.Impact.ImpactStyle.medium",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 57,
+      "symbol": "TapticEngine.Impact.feedback(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 68,
+      "symbol": "TapticEngine.Impact.prepare(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 91,
+      "symbol": "TapticEngine.Selection.feedback()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 99,
+      "symbol": "TapticEngine.Selection.prepare()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 117,
+      "symbol": "TapticEngine.Notification.NotificationType.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 117,
+      "symbol": "TapticEngine.Notification.NotificationType.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 117,
+      "symbol": "TapticEngine.Notification.NotificationType.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 128,
+      "symbol": "TapticEngine.Notification.feedback(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia/MiniPedia/MiniPedia/Utilities/RangeSeekSlider/TapticEngine.swift",
+      "line": 145,
+      "symbol": "TapticEngine.Notification.prepare()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/pistarlabsfordyned/Documents/DynEd GIT/MiniPedia"
+}
