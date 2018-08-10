@@ -13,6 +13,7 @@ MiniPedia is simple e-commerce app that grab data from Tokopedia.
 - [x] JSON parsing with Codable technique (Supported `Any` data type)
 - [x] Access all features in one page for UX
 - [x] Infinite scrolls
+- [x] No warnings code
 - [x] Simple documentations
 
 ## Preview
